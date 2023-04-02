@@ -1,4 +1,5 @@
 # python3
+# Ernsts Strojevs 201RMC092 16.grupa
 
 class Query:
     def __init__(self, query):
